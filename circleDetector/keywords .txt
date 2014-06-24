@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map circleDetector	
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+circleDetector	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+detectCircle	 KEYWORD2
+midLayerInit	 KEYWORD2
+ledBlink         KEYWORD2
+ 
+#######################################
+# Instances (KEYWORD2)
+#######################################
+CircleDetector KEYWORD2
+ 
+#######################################
+# Constants (LITERAL1)
+#######################################
+ 
