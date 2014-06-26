@@ -32,5 +32,14 @@
 	DETECT_CIRCLE = 0x7a
  }teFrameIdentifier;
 
+typedef enum{
+  YELLOW,
+  GREEN,
+  BLUE,
+  INDIGO,
+  PURPLE,
+  PINK,
+  RED
+}teColor;
 
 #endif /* COMMON_H_ */
